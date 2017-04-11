@@ -6,6 +6,7 @@ public class JL {
         for(int i=0; i<3; i++) {
             contador++;
         }
+        System.out.println(contador);
     }
 
 }
